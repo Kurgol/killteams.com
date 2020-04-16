@@ -1,6 +1,6 @@
 # killteams.com
 
-A Warhammer 40,000 living database and roster builder.
+A Warhammer 40,000 roster builder.
 
 ## Installation
 
